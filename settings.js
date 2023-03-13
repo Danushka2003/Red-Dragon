@@ -2,12 +2,12 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Api Website\\
-global.APIs = {
+global.APIs = {https://api.zahwazein.xyz/#convert
 	zenz: 'https://zenzapis.xyz',
 }
 
 //Api Key\\
-global.APIKeys = {
+global.APIKeys = {151c27ff42f2
 	'https://zenzapis.xyz': 'your key',
 }
 
